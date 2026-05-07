@@ -1,0 +1,143 @@
+[
+  {
+    "id": "spicy-miso-ramen",
+    "title": "Spicy Miso Ramen",
+    "category": "Dinner",
+    "cookTime": 40,
+    "prepTime": 20,
+    "difficulty": "Intermediate",
+    "servings": 4,
+    "imageUrl": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=800&auto=format&fit=crop",
+    "description": "A loud, aggressive take on the classic. Rich, fiery, and deeply savory broth loaded with chewy noodles and charred pork.",
+    "ingredients": [
+      { "item": "Red miso paste", "amount": 4, "unit": "tbsp" },
+      { "item": "Doubanjiang (chili bean paste)", "amount": 2, "unit": "tbsp" },
+      { "item": "Chicken or pork broth", "amount": 4, "unit": "cups" },
+      { "item": "Fresh ramen noodles", "amount": 4, "unit": "portions" },
+      { "item": "Ground pork", "amount": 1, "unit": "lb" },
+      { "item": "Garlic, minced", "amount": 2, "unit": "cloves" },
+      { "item": "Ginger, grated", "amount": 1, "unit": "inch" }
+    ],
+    "steps": [
+      { "title": "Prepare the Tare", "description": "In a small bowl, whisk together the red miso paste and doubanjiang until it forms a smooth, thick paste." },
+      { "title": "Fry the Aromatics", "description": "Heat oil in a pot. Toss in garlic and ginger. Add the ground pork and cook until browned and slightly crispy." },
+      { "title": "Build the Broth", "description": "Add the miso mixture and broth. Bring to a boil and let it simmer angrily for 10 minutes." },
+      { "title": "Assemble", "description": "Cook noodles separately. Ladle the screaming hot broth over noodles and top aggressively with eggs and nori." }
+    ]
+  },
+  {
+    "id": "triple-stack-burger",
+    "title": "Triple-Stack Heartstopper",
+    "category": "Lunch",
+    "cookTime": 25,
+    "prepTime": 15,
+    "difficulty": "Hardcore",
+    "servings": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=800&auto=format&fit=crop",
+    "description": "A close-up, high-contrast stack of beef, cheese, and grease. Not for the faint of heart.",
+    "ingredients": [
+      { "item": "Beef Patties", "amount": 3, "unit": "" },
+      { "item": "American Cheese slices", "amount": 3, "unit": "" },
+      { "item": "Brioche Bun", "amount": 1, "unit": "" },
+      { "item": "Bacon strips", "amount": 4, "unit": "" },
+      { "item": "Special Sauce", "amount": 2, "unit": "tbsp" }
+    ],
+    "steps": [
+      { "title": "Sear Patties", "description": "Smash the patties onto a screaming hot griddle until a dark crust forms." },
+      { "title": "Melt Cheese", "description": "Stack the patties with cheese slices between each layer." },
+      { "title": "Toast Buns", "description": "Toast buns in the residual beef fat until golden and crispy." },
+      { "title": "Stack High", "description": "Assemble with bacon and sauce. Serve with extra napkins." }
+    ]
+  },
+  {
+    "id": "avocado-corn-chaos",
+    "title": "Smashed Avocado & Corn Chaos",
+    "category": "Breakfast",
+    "cookTime": 10,
+    "prepTime": 5,
+    "difficulty": "Easy",
+    "servings": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1525351484163-7529414344d8?q=80&w=800&auto=format&fit=crop",
+    "description": "A vibrant, messy salad featuring bright avocado and charred corn. energetic and loud.",
+    "ingredients": [
+      { "item": "Ripe Avocados", "amount": 2, "unit": "" },
+      { "item": "Canned Corn", "amount": 1, "unit": "cup" },
+      { "item": "Cherry Tomatoes", "amount": 10, "unit": "" },
+      { "item": "Lime Juice", "amount": 1, "unit": "tbsp" },
+      { "item": "Sourdough Slices", "amount": 2, "unit": "" }
+    ],
+    "steps": [
+      { "title": "Char Corn", "description": "Quickly fry corn in a dry pan until scorched and flavorful." },
+      { "title": "Mash Avocado", "description": "Aggressively mash avocado with lime juice and salt." },
+      { "title": "Crumble & Toss", "description": "Combine corn, tomatoes, and mash on toasted sourdough." }
+    ]
+  },
+  {
+    "id": "concrete-brownies",
+    "title": "Concrete Block Brownies",
+    "category": "Dessert",
+    "cookTime": 45,
+    "prepTime": 15,
+    "difficulty": "Intermediate",
+    "servings": 9,
+    "imageUrl": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=800&auto=format&fit=crop",
+    "description": "Thick, fudgy brownie squares that feel industrial. Maximum cocoa impact.",
+    "ingredients": [
+      { "item": "Dark Chocolate", "amount": 200, "unit": "g" },
+      { "item": "Butter", "amount": 150, "unit": "g" },
+      { "item": "Sugar", "amount": 200, "unit": "g" },
+      { "item": "Eggs", "amount": 3, "unit": "" },
+      { "item": "Flour", "amount": 100, "unit": "g" }
+    ],
+    "steps": [
+      { "title": "Melt Chocolate", "description": "Melt butter and chocolate until glossy and dark." },
+      { "title": "Whisk Eggs", "description": "Whisk eggs and sugar until pale and thick." },
+      { "title": "Fold & Bake", "description": "Gently fold in flour and bake at 180°C until the top cracks like industrial concrete." }
+    ]
+  },
+  {
+    "id": "spicy-shrimp-tacos",
+    "title": "Neon Shrimp Tacos",
+    "category": "Lunch",
+    "cookTime": 15,
+    "prepTime": 15,
+    "difficulty": "Easy",
+    "servings": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1512838243191-e81e8f66f1fd?q=80&w=800&auto=format&fit=crop",
+    "description": "Shrimp marinated in neon spices, served with a punchy slaw.",
+    "ingredients": [
+      { "item": "Large Shrimp", "amount": 1, "unit": "lb" },
+      { "item": "Chili Powder", "amount": 2, "unit": "tbsp" },
+      { "item": "Corn Tortillas", "amount": 6, "unit": "" },
+      { "item": "Purple Cabbage", "amount": 2, "unit": "cups" },
+      { "item": "Greek Yogurt", "amount": 0.5, "unit": "cup" }
+    ],
+    "steps": [
+      { "title": "Spice Rub", "description": "Toss shrimp in chili powder and salt. Sear until pink and curled." },
+      { "title": "Slaw Prep", "description": "Thinly slice cabbage and toss with yogurt and lime." },
+      { "title": "Assemble", "description": "Char tortillas over an open flame and load 'em up." }
+    ]
+  },
+  {
+    "id": "morning-chaos-shake",
+    "title": "Morning Chaos Shake",
+    "category": "Snack",
+    "cookTime": 5,
+    "prepTime": 5,
+    "difficulty": "Easy",
+    "servings": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1553787499-6f9133860278?q=80&w=800&auto=format&fit=crop",
+    "description": "High-speed nutrition for people who don't have time to sit down.",
+    "ingredients": [
+      { "item": "Frozen Banana", "amount": 1, "unit": "" },
+      { "item": "Peanut Butter", "amount": 2, "unit": "tbsp" },
+      { "item": "Oats", "amount": 0.25, "unit": "cup" },
+      { "item": "Milk", "amount": 1, "unit": "cup" },
+      { "item": "Protein Powder", "amount": 1, "unit": "scoop" }
+    ],
+    "steps": [
+      { "title": "Blender Blitz", "description": "Throw everything into the blender." },
+      { "title": "Liquify", "description": "Run on HIGH until it looks like a smooth fuel source." }
+    ]
+  }
+]
